@@ -18,6 +18,14 @@ Connect the Dots (CTD) is a multi stop route planner for deliveries and small fl
 | [API](https://ctdflow.com/pricing) | Send stops and vans from your own systems and receive optimised routes. |
 | [WooCommerce](https://ctdflow.com/woocommerce) | Choose a delivery day, press Plan, and every van gets its orders in a route. |
 
+### Open source
+
+The WooCommerce plugin is public at [ctdflow/connect-the-dots-woocommerce](https://github.com/ctdflow/connect-the-dots-woocommerce). Install it with Composer:
+
+```bash
+composer require ctdflow/connect-the-dots
+```
+
 ### Learn more
 
 * [Delivery route planning](https://ctdflow.com/delivery-route-planning)
