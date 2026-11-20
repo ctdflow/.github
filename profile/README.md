@@ -23,7 +23,7 @@ Connect the Dots (CTD) is a multi stop route planner for deliveries and small fl
 The WooCommerce plugin is public at [ctdflow/connect-the-dots-woocommerce](https://github.com/ctdflow/connect-the-dots-woocommerce). Install it with Composer:
 
 ```bash
-composer require ctdflow/connect-the-dots
+composer require ctdflow/connect-the-dots-woocommerce
 ```
 
 ### Learn more
